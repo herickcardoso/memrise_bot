@@ -6,6 +6,16 @@ url = 'http://www.memrise.com/api/user/get/?user_id=%d&with_leaderboard=true'
 
 users_id = [
 	11821101, #gt
+	15561077, #joefather
+	11859239, #henrickcs
+	5982145, #znp
+	14665957,#alexandra
+	10514974, #joughton,
+	8448178, #deus ex
+	7461952, #fedps
+	11662190, #darth
+	10279492, #nilson
+	9333606, #vinicius_ba
 	]
 
 conn = sqlite3.connect('memrise.sqlite')
